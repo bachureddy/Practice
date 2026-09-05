@@ -7,7 +7,7 @@ print(f"Welcome to Python, {name}!")
 
 # Simple conditional flow
 age = int(input("Enter your age: "))
-if age >= 18:
+if age >= 20:
     print("You are an adult.")
 else:
     print("You are a minor.")
